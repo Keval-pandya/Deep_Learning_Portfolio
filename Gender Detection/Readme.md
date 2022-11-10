@@ -37,5 +37,5 @@ If you have an Nvidia GPU, then you can install `tensorflow-gpu` package. It wil
 ![](plot.png)
 
 ### Sample output :
-![](image.png)
+![](image.png)(male_output.png)
 
