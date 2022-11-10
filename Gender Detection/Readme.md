@@ -29,3 +29,5 @@ You can download the dataset I gathered from Google Images from this [link](http
 * matplotlib
 
 Install them by typing `pip install scikit-learn matplotlib`
+
+You can also use directly the detect_gender_webcam.py file by downloading the pre-trained model from the this <a href="https://drive.google.com/file/d/1N2W82oXIPi1ntk1D3SGRB-84uTEkMX5U/view?usp=sharing"> link </a> and put it in the same folder as all python file.
