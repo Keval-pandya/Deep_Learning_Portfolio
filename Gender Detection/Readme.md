@@ -37,9 +37,9 @@ If you have an Nvidia GPU, then you can install `tensorflow-gpu` package. It wil
 ![](plot.png)
 
 ### Sample output :
-<h3>Female Output </h3>
+Female Output 
 ![](image.png) 
 <br>
- <h3>Male Output</h3> 
+ Male Output
 ![](male_output.png)
 
